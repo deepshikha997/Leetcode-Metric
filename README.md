@@ -11,7 +11,7 @@ This tool helps users quickly track their progress on LeetCode.
 - See the global ranking of the user onleetcode
 - Acceptance rate
 - Contribution Points
-- 
+  
 ## Technologies Used
 - HTML
 - CSS
