@@ -18,4 +18,4 @@ This tool helps users quickly track their progress on LeetCode.
 - JavaScript
 
 ## Demo
-You can view the live demo of the project [here](https://.github.io/Leetcode-Metric/).
+You can view the live demo of the project [Click here]( https://deepshikha997.github.io/Leetcode-Metric/).
