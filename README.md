@@ -4,7 +4,8 @@ LeetCode Metric is a simple frontend project where users can enter their LeetCod
 - User ranking and performance stats
 
 This tool helps users quickly track their progress on LeetCode.
-![Screenshot 2024-09-13 215312](https://github.com/user-attachments/assets/f28a8c2f-32e0-4900-a28c-1a6a10c88461)
+![Screenshot (11)](https://github.com/user-attachments/assets/73f33499-9eb6-42c4-81b1-31a5f070fb5d)
+
 
 
 ## Features
